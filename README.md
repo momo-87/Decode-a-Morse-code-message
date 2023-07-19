@@ -1,4 +1,10 @@
 <a name="readme-top"></a>
+<div align="center">  
+  <h2><b>Ruby Methods to Decode a Morse Message</b></h2>
+</div>
+<div align="center">
+  <img src="./Morse_code.png" alt="Morse code"/>
+</div>
 
 # 📗 Table of Contents
 
@@ -12,8 +18,8 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  <!-- - [Run tests](#run-tests) -->
+  <!-- - [Deployment](#triangular_flag_on_post-deployment) -->
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -22,7 +28,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 🎯 Morse Code<a name="about-project"></a>
+# 🎯 Decode a Morse Code<a name="about-project"></a>
 
 > This project is about using Ruby code to decode a Morse code message.
 ## 🛠 Built With <a name="built-with"></a>
@@ -47,7 +53,7 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-- **Use Ruby to create morse code**
+- **Use Ruby to decode Morse code**
 - **Setup linter**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,13 +100,13 @@ In the project directory, run/ Excute each query in the following order:
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-### Run tests
+<!-- ### Run tests -->
 
-```test
-No tests here...
-```
+<!-- ```test -->
+<!-- No tests here... -->
+<!-- ``` -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- AUTHORS -->
 
