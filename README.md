@@ -88,12 +88,14 @@ Clone the project.
   git clone https://github.com/momo-87/Decode-a-Morse-code-message.git
 ```
 
+### Install
 Go to the project directory.
 
 ```bash
   cd Decode-a-Morse-code-message
 ```
 
+### Usage
 In the project directory, run/ Excute each query in the following order:
 
 ```bash
