@@ -125,10 +125,9 @@ In the project directory, run/ Excute each query in the following order:
 
 👤 **Kifle Haile**
 
-- GitHub: [@githubhandle](https://github.com/momo-87)
+- GitHub: [@githubhandle](https://github.com/kifle23)
 - Twitter: [@twitterhandle](https://twitter.com/KifleHaile12)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kifle-haile)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
@@ -159,7 +158,7 @@ Give a ⭐️ if you like this project!
 
 ## 🔭Acknowledgments <a name="acknowledgements"></a>
 
-- [Microverse](https://www.microverse.org/).
+- I would like to thank [Microverse](https://www.microverse.org/) for giving me a wonderful opportunity to work on this project.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
