@@ -21,6 +21,7 @@
   <!-- - [Run tests](#run-tests) -->
   <!-- - [Deployment](#triangular_flag_on_post-deployment) -->
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🔭 Acknowledgements](#acknowledgements)
@@ -127,6 +128,12 @@ In the project directory, run/ Excute each query in the following order:
 - GitHub: [@githubhandle](https://github.com/momo-87)
 - Twitter: [@twitterhandle](https://twitter.com/KifleHaile12)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kifle-haile)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Build and deploy the whole app**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
